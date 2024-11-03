@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Antonio_Picture.png"
+  avatar           : "images/Antonio_Picture.pdf"
   name             : "Antonio Castellanos"
   pronouns         : # example: "she/her"  
   bio              : "Assitant Professor of Operations Research and Management"
   location         : "Israel"
-  employer         : "Hebrew University of Jerusalem"
+  employer         : "Hebrew University"
   uri              : # URL
   email            : "antonio.castellanos@mail.huji.ac.il" 
 
