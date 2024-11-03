@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/Antonio_Picture.pdf"
+  avatar           : "images/bio-photo-2.jpg"
   name             : "Antonio Castellanos"
   pronouns         : # example: "she/her"  
   bio              : "Assitant Professor of Operations Research and Management"
