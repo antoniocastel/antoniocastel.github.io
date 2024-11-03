@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Antonio Castellanos"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,5 +17,10 @@ Research Interests
 
 *Methodologies:* Data-Driven Modeling, Data Science, Machine Learning, Statistical Learning, Stochastic Modeling, Queueing Theory. 
 
+Contact 
+======
+*Mail:* antonio.castellanos [at] mail [dot] huji [dot] ac [dot] il
+
+My CV can be downloaded here.
 
 
