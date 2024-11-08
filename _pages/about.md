@@ -17,7 +17,7 @@ Research Interests
 ======
 *Areas:* Service Systems Operations, Contact Centers, Behavioral Operations.
 
-*Methodologies:* Data-Driven Modeling, Data Science, Machine Learning, Statistical Learning, Stochastic Modeling, Queueing Theory. 
+*Methodologies:* Data-Driven Modeling, Stochastic Modeling, Data Science, Machine Learning, Statistical Learning, Queueing Theory. 
 
 
 
