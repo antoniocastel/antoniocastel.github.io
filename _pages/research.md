@@ -9,56 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Peer-Reviewed Articles 
+* Daw A., **Castellanos, A.**, Yom-Tov, G.B., Pender, J., Gruendlinger, L. (2024). ["The Co-Production of Service: Modeling Service in Contact Centers Using Hawkes Processes"](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.04060)  _Management Science_
+  * 2022: POMS Applied Research Challenge Finalist 
+  * 2021: Selected for MSOM Service Management SIG
+  
+## Conference Peer-Reviewed Publications
+* **Castellanos, A.**, Daw, A., Ward, A.R., Yom-Tov, G.B. (2024).  ["Closing the Service: Contrasting Activity-Based and Time-Based Systematic Closure Policies"](https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/d/2749/files/2024/08/Closing_the_Service_WinterSim2024.pdf)  _Proceedings of the 2024 Winter Simulation Conference_ Forthcoming
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Li, B., **Castellanos, A.**, Shi, P., Ward, A.R.\ ["Combining Machine Learning and Queueing Theory for Data-driven Incarceration-Diversion Program Management"](https://ojs.aaai.org/index.php/AAAI/article/view/30330/32355)  _Proceedings of the 38th AAAI Conference_
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
