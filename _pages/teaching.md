@@ -6,23 +6,23 @@ author_profile: true
 ---
 
 ## Lecturer
-* Applied Statistics (Hebrew University Business School 55810) Autumn 2024
+* Autumn 2024: Applied Statistics (Hebrew University Business School 55810)
   *  Design and Teaching with Dr. Yehezkel Resheff
   *  MBA core
+  * 
   
 ## Teaching Assistant
-* Managing Service Operations (University of Chicago Booth School of Business 40110) Spring 2024
+* Spring 2024: Managing Service Operations (University of Chicago Booth School of Business 40110) 
   *  Lecturer: Prof. Amy R. Ward
-  *  MBA (Full-time \& Evening)
+  *  MBA (Full-time & Evening)
   *  Role: Revisions Leader
 
-* Multi-Disciplinary Research in Service Engineering (Technion 097135) 2020–2021
+* 2020–2021: Multi-Disciplinary Research in Service Engineering (Technion 097135)
   *   Lecturer: Prof. Galit B. Yom-Tov
-  *   Undergraduate and Graduate
+  *   Undergraduate & Graduate
   *   Role: Recitations Leader & Grader 
 
-* Service Engineering (Technion 096342) 2019–2022
+* 2019–2022: Service Engineering (Technion 096342)
   *   Lecturer: Prof. Galit B. Yom-Tov
-  *   Undergraduate \& Graduate
+  *   Undergraduate & Graduate
   *   Role: Recitations Leader & Grader 
-
