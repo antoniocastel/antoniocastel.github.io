@@ -8,8 +8,7 @@ author_profile: true
 ## Lecturer
 * Autumn 2024: Applied Statistics (Hebrew University Business School 55810)
   *  Design and Teaching with Dr. Yehezkel Resheff
-  *  MBA core
-  * 
+  *  MBA core 
   
 ## Teaching Assistant
 * Spring 2024: Managing Service Operations (University of Chicago Booth School of Business 40110) 
