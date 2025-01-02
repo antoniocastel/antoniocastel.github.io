@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Lecturer
+* Spring 2025: Operations Management (Hebrew University Business School 55506)
+  *  Undergraduate core 
+
 * Autumn 2024: Applied Statistics (Hebrew University Business School 55810)
   *  Design and Teaching with Dr. Yehezkel Resheff
   *  MBA core 
