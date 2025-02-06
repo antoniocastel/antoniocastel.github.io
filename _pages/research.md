@@ -20,3 +20,16 @@ redirect_from:
 
 * Li, B., **Castellanos, A.**, Shi, P., Ward, A.R. ["Combining Machine Learning and Queueing Theory for Data-driven Incarceration-Diversion Program Management"](https://ojs.aaai.org/index.php/AAAI/article/view/30330)  _Proceedings of the 38th AAAI Conference_
   
+## Selected Working Papers
+* **Castellanos, A.**, Yom-Tov, G.B., Goldberg, Y. (2023) ["Silent Abandonment in Contact Centers Estimating Customer Patience from Uncertain Data"](https://arxiv.org/abs/2304.11754v2)
+  * 2020:  INFORMS Behavioral Operations Best Working Paper Competition, Honorable Mention
+  * 2019:  The Operations Research Society of Israel (ORSIS) Abraham Mehrez Prize for Graduate Excellent Work 
+
+Split into the next two papers: 
+  * **Castellanos, A.**, Yom-Tov, G.B, Goldberg, Y, Park, Y. (2025) ["Silent Abandonment in Text-Based Contact Centers: Identifying, Quantifying, and Mitigating its Operational Impacts"](https://arxiv.org/abs/2501.08869)
+   * **Castellanos, A.**, Yom-Tov G.B. "Silent Abandonment Policies"
+
+## Honors 
+* 2023: INFORMS George B. Dantzig Dissertation Award, Honorable Mention
+* 2021 & 2020: Israeli Higher Education Council: Prize for Outstanding Research in Data Science
+* 2019: Technion IE&M Nahmani Prize for Outstanding Research in Quality Management,  
