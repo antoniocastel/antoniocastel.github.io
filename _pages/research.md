@@ -32,4 +32,5 @@ Split into the next two papers:
 ## Honors 
 * 2023: INFORMS George B. Dantzig Dissertation Award, Honorable Mention
 * 2021 & 2020: Israeli Higher Education Council: Prize for Outstanding Research in Data Science
-* 2019: Technion IE&M Nahmani Prize for Outstanding Research in Quality Management,  
+* 2019: Technion IE&M Nahmani Prize for Outstanding Research in Quality Management
+  
