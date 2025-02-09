@@ -22,8 +22,9 @@ redirect_from:
   
 ## Selected Working Papers
 * **Castellanos, A.**, Yom-Tov, G.B., Goldberg, Y. (2023) ["Silent Abandonment in Contact Centers Estimating Customer Patience from Uncertain Data"](https://arxiv.org/abs/2304.11754v2)
-  * 2020:  INFORMS Behavioral Operations Best Working Paper Competition, Honorable Mention
-  * 2019:  The Operations Research Society of Israel (ORSIS) Abraham Mehrez Prize for Graduate Excellent Work 
+  * 2020: INFORMS Behavioral Operations Best Working Paper Competition, Honorable Mention
+  * 2020: The Operations Research Society of Israel (ORSIS) Abraham Mehrez Prize for Graduate Excellent Work
+  * 2019:  The Israel Statistics and Data Science Association ISDSA Outstanding Research Poster, Second Place
 
 Split into the next two papers: 
   * **Castellanos, A.**, Yom-Tov, G.B, Goldberg, Y, Park, Y. (2025) ["Silent Abandonment in Text-Based Contact Centers: Identifying, Quantifying, and Mitigating its Operational Impacts"](https://arxiv.org/abs/2501.08869)
