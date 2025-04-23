@@ -34,5 +34,6 @@ Split into the next two papers:
 * 2023: INFORMS George B. Dantzig Dissertation Award, Honorable Mention
 * 2021 & 2020: Israeli Higher Education Council: Prize for Outstanding Research in Data Science
 * 2019: Technion IE&M Nahmani Prize for Outstanding Research in Quality Management
+
 [Link to Dissertation](https://gality.net.technion.ac.il/files/2024/12/Antonio_Castellanos_PhD_Aug_2022.pdf)
   
