@@ -19,7 +19,7 @@ Research Interests
 
 *Methodologies:* data science, stochastic modeling, Hawkes processes, data-driven modeling, machine learning, queueing theory, simulation, NLP
 
-**If you’re a motivated graduate student or postdoc eager to explore research in my fields of interest, I’d be glad to hear from you**
+**If you are a motivated graduate student or postdoc eager to explore research in my fields of interest, I’d be glad to hear from you**
 
 
 
