@@ -15,7 +15,7 @@ Previously, I was a Postdoctoral Principal Researcher at the University of Chica
 
 Research Interests
 ======
-*Areas:* service operations, AI for service delivery and design, contact centers, behavioral operations, healtcare, criminal justice. 
+*Areas:* service operations, applied machine learning, AI for service delivery and design, contact centers, behavioral operations, healthcare, criminal justice. 
 
 *Methodologies:* data science, stochastic modeling, Hawkes processes, machine learning, queueing theory, simulation, NLP
 
