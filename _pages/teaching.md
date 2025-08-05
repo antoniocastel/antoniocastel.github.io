@@ -7,11 +7,11 @@ author_profile: true
 
 ## Lecturer
 * Spring/Fall 2025: Operations Management (Hebrew University Business School 55506)
-  *  Undergraduate core 
+  *  Undergraduate Core 
 
 * Fall 2024/2025: Applied Statistics (Hebrew University Business School 55810)
   *  Course Designed with Dr. Yehezkel Resheff
-  *  MBA core 
+  *  MBA Core 
   
 ## Teaching Assistant
 * Spring 2024: Managing Service Operations (University of Chicago Booth School of Business 40110) 
