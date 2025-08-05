@@ -24,11 +24,9 @@ author:
   avatar           : "AntonioPic.png"
   name             : "Antonio Castellanos"
   pronouns         : # example: "she/her"  
-  bio              : "Assitant Professor of Operations Research"
-  location         : "Israel"
-  employer         : | 
-                        Hebrew University 
-                        of Jerusalem
+  bio              : "Assistant Professor of Operations Research"
+  location         : "Jerusalem, Israel"
+  employer         : "Hebrew University"
   uri              : # URL
   email            : "antonio.castellanos@mail.huji.ac.il" 
 
