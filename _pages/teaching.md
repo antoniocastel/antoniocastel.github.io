@@ -6,18 +6,18 @@ author_profile: true
 ---
 
 ## Lecturer
-* Spring 2025: Operations Management (Hebrew University Business School 55506)
+* Spring/Fall 2025: Operations Management (Hebrew University Business School 55506)
   *  Undergraduate core 
 
-* Autumn 2024: Applied Statistics (Hebrew University Business School 55810)
-  *  Design and Teaching with Dr. Yehezkel Resheff
+* Fall 2024/2025: Applied Statistics (Hebrew University Business School 55810)
+  *  Course Designed with Dr. Yehezkel Resheff
   *  MBA core 
   
 ## Teaching Assistant
 * Spring 2024: Managing Service Operations (University of Chicago Booth School of Business 40110) 
   *  Lecturer: Prof. Amy R. Ward
   *  MBA (Full-time & Evening)
-  *  Role: Revisions Leader
+  *  Role: Revisions Leader & Co-grader
 
 * 2020–2021: Multi-Disciplinary Research in Service Engineering (Technion 097135)
   *   Lecturer: Prof. Galit B. Yom-Tov
