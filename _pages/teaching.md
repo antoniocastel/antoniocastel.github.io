@@ -10,7 +10,6 @@ author_profile: true
   *  Undergraduate Core 
 
 * Fall 2024/2025: Applied Statistics (Hebrew University Business School 55810)
-  *  Course Designed with Dr. Yehezkel Resheff
   *  MBA Core 
   
 ## Teaching Assistant
