@@ -13,6 +13,7 @@ redirect_from:
 ## Peer-Reviewed Articles 
 * Daw A., **Castellanos, A.**, Yom-Tov, G.B., Pender, J., Gruendlinger, L. (2024). ["The Co-Production of Service: Modeling Service in Contact Centers Using Hawkes Processes."](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.04060)  _Management Science._
 [[arXiv version]](https://arxiv.org/abs/2004.07861)
+  * 2025: 2nd Place MSOM Service Management SIG Best Paper Award
   * 2022: POMS Applied Research Challenge Finalist 
   * 2021: Selected for MSOM Service Management SIG
   
