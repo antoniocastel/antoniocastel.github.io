@@ -19,7 +19,7 @@ Research Interests
 
 *Methodologies:*  Data Science, Hawkes Processes, Data-Driven Stochastic Modeling,  Machine Learning, Queueing Theory, Simulation, Natural Language Processing
 
-*One liner:* "I develop behavior-aware stochastic and machine learning models for service and healthcare operations, with applications to chat-based contact centers and clinical operations decision-making"*
+*One liner:* "I develop behavior-aware stochastic and machine learning models for service and healthcare operations, with applications to chat-based contact centers and clinical operations decision-making"
 
 
 **If you are a motivated graduate student or postdoc eager to explore research in my fields of interest, I’d be glad to hear from you**
