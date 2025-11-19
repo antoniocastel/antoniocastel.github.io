@@ -28,9 +28,10 @@ redirect_from:
   * 2020: The Operations Research Society of Israel (ORSIS) Abraham Mehrez Prize for Graduate Excellent Work
   * 2019:  The Israel Statistics and Data Science Association ISDSA Outstanding Research Poster, Second Place
 
-Split into the next two papers: 
-  * **Castellanos, A.**, Yom-Tov, G.B, Goldberg, Y., Park, J. (2025) ["Silent Abandonment in Text-Based Contact Centers: Identifying, Quantifying, and Mitigating its Operational Impacts."](https://arxiv.org/abs/2501.08869) _Submittted_
-   * **Castellanos, A.**, Yom-Tov G.B. "Silent Abandonment Policies"
+  * Split into the next two papers: 
+    * **Castellanos, A.**, Yom-Tov, G.B, Goldberg, Y., Park, J. (2025) ["Silent Abandonment in Text-Based Contact Centers: Identifying, Quantifying, and Mitigating its Operational Impacts."](https://arxiv.org/abs/2501.08869) _Submittted_
+    * **Castellanos, A.**, Yom-Tov G.B. "Silent Abandonment Policies"
+
 
 * **Castellanos, A.**, Landa L.T., Goldberg, Y., Yom-Tov, G.B. (2025).  "Real-Time Estimation of Customer Satisfaction in Contact Centers."  _Submittted_
 
