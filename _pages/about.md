@@ -25,4 +25,10 @@ Research Interests
 **If you are a motivated graduate student or postdoc eager to explore research in my fields of interest, I’d be glad to hear from you**
 
 
+Service
+======
+I organize the BAM (Business Analytics and Marketing) seminar at the Hebrew University of Jerusalem Business School. The seminar brings together faculty across data science, operations research and operations management, and marketing. 
+
+**Interested in presenting your work? Please reach out**
+
 
