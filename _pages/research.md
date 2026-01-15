@@ -24,7 +24,7 @@ redirect_from:
   
 ## Selected Working Papers
 
-* **Castellanos, A.**, Daw, A., Yom-Tov, G.B. (2026) “What You Say Versus When You Say It: Efficiently Predicting Service Completion with LLMs and Stochastic Processes.” _Submittted_
+* **Castellanos, A.**, Daw, A., Yom-Tov, G.B. (2026) “What You Say Versus When You Say It: Efficiently Predicting Service Completions with LLMs and Stochastic Processes.” _Submittted_
 
 * **Castellanos, A.**, Yom-Tov, G.B., Goldberg, Y. (2023) ["Silent Abandonment in Contact Centers Estimating Customer Patience from Uncertain Data."](https://arxiv.org/abs/2304.11754v2)
   * 2020: INFORMS Behavioral Operations Best Working Paper Competition, Honorable Mention
