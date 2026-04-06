@@ -11,7 +11,7 @@ redirect_from:
 
 
 ## Peer-Reviewed Articles 
-* Daw A., **Castellanos, A.**, Yom-Tov, G.B., Pender, J., Gruendlinger, L. (2024). ["The Co-Production of Service: Modeling Service in Contact Centers Using Hawkes Processes."](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.04060)  _Management Science._
+* Daw A., **Castellanos, A.**, Yom-Tov, G.B., Pender, J., Gruendlinger, L. (2025). ["The Co-Production of Service: Modeling Service in Contact Centers Using Hawkes Processes."](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.04060)  _Management Science._
 [[arXiv version]](https://arxiv.org/abs/2004.07861)
   * 2025: 2nd Place MSOM Service Management SIG Best Paper Award
   * 2022: POMS Applied Research Challenge Finalist 
@@ -20,7 +20,7 @@ redirect_from:
 ## Conference Peer-Reviewed Publications
 * **Castellanos, A.**, Daw, A., Ward, A.R., Yom-Tov, G.B. (2024).  ["Closing the Service: Contrasting Activity-Based and Time-Based Systematic Closure Policies."](https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/d/2749/files/2024/08/Closing_the_Service_WinterSim2024.pdf)  _Proceedings of the 2024 Winter Simulation Conference_
 
-* Li, B., **Castellanos, A.**, Shi, P., Ward, A.R. ["Combining Machine Learning and Queueing Theory for Data-driven Incarceration-Diversion Program Management."](https://ojs.aaai.org/index.php/AAAI/article/view/30330)  _Proceedings of the 38th AAAI Conference_
+* Li, B., **Castellanos, A.**, Shi, P., Ward, A.R. (2024) ["Combining Machine Learning and Queueing Theory for Data-driven Incarceration-Diversion Program Management."](https://ojs.aaai.org/index.php/AAAI/article/view/30330)  _Proceedings of the 38th AAAI Conference_
   
 ## Selected Working Papers
 
