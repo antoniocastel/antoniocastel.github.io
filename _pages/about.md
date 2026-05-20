@@ -25,7 +25,7 @@ I combine stochastic modeling and machine learning to improve prediction and dec
 
 *Methodologies:*  Data Science, Hawkes Processes, Data-Driven Stochastic Modeling,  Machine Learning, Queueing Theory, Simulation, Natural Language Processing
 
-**Prospective students & postdocs:** If you are a motivated graduate student or postdoc eager to explore research in my fields of interest, I’d be glad to hear from you.
+**Interested? Please contact me - I’d be glad to hear from you**
 
 
 Service
