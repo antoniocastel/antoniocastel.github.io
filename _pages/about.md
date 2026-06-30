@@ -21,9 +21,9 @@ Research Interests
 **Behavior-aware models for service and healthcare operations.**  
 I combine stochastic modeling and machine learning to improve prediction and decision-making under uncertainty.
 
-*Areas:* Service Operations, AI for Service, Behavioral Operations, Contact Centers, Healthcare
+*Areas:* Service Operations, AI for Service, Service Engineering, Behavioral Operations, Contact Centers, Healthcare
 
-*Methodologies:*  Data Science, Hawkes Processes, Data-Driven Stochastic Modeling,  Machine Learning, Queueing Theory, Simulation, Natural Language Processing
+*Methodologies:*  Data Science, Hawkes Processes, Data-Driven Stochastic Modeling, Machine Learning, Queueing Theory, Simulation, Natural Language Processing
 
 **Interested? Please contact me - I’d be glad to hear from you**
 
