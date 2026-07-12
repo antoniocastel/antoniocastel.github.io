@@ -26,6 +26,11 @@ redirect_from:
 
 * **Castellanos, A.**, Daw, A., Yom-Tov, G.B. (2026) [“What You Say Versus When You Say It: Efficiently Predicting Service Completions with LLMs and Stochastic Processes.”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6100586) _Submittted_
 
+* Zourob, J., Park, J., **Castellanos, A.**, Sheele, J.M. (2026).  "Hospital Operational Factors Associated With Emergency Department Wait Times in
+the United States: Evidence from a National Retrospective Study (2016-2022)."  _Submittted_
+      
+* **Castellanos, A.**, Landa L.T., Goldberg, Y., Yom-Tov, G.B. (2025).  "Real-Time Estimation of Customer Satisfaction in Contact Centers."  _Submittted_
+
 * **Castellanos, A.**, Yom-Tov, G.B., Goldberg, Y. (2023) ["Silent Abandonment in Contact Centers Estimating Customer Patience from Uncertain Data."](https://arxiv.org/abs/2304.11754v2)
   * 2020: INFORMS Behavioral Operations Best Working Paper Competition, Honorable Mention
   * 2020: The Operations Research Society of Israel (ORSIS) Abraham Mehrez Prize for Graduate Excellent Work
@@ -34,8 +39,6 @@ redirect_from:
   * _Split into the next two papers:_ 
     * **Castellanos, A.**, Yom-Tov, G.B, Goldberg, Y., Park, J. (2025) ["Silent Abandonment in Text-Based Contact Centers: Identifying, Quantifying, and Mitigating its Operational Impacts."](https://arxiv.org/abs/2501.08869) _Submittted_
     * **Castellanos, A.**, Yom-Tov G.B. "Silent Abandonment Policies."
-      
-* **Castellanos, A.**, Landa L.T., Goldberg, Y., Yom-Tov, G.B. (2025).  "Real-Time Estimation of Customer Satisfaction in Contact Centers."  _Submittted_
 
 ## Dissertation Honors
 * 2023: INFORMS George B. Dantzig Dissertation Award, Honorable Mention
